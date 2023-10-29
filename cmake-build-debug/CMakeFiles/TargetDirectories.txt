@@ -1,0 +1,3 @@
+D:/1Level3Study/软工/实验四/repository/cmake-build-debug/CMakeFiles/repository.dir
+D:/1Level3Study/软工/实验四/repository/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/1Level3Study/软工/实验四/repository/cmake-build-debug/CMakeFiles/rebuild_cache.dir
